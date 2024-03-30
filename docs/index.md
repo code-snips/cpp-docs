@@ -1,3 +1,3 @@
 # C++
 
-Welcome to the last collection of C++ snippets you'll ever need!
+A collection of code snippets for C++.
