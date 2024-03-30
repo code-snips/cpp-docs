@@ -1,2 +1,2 @@
 # cpp-docs
-cpp tipps and tricks
+cpp tips and tricks
