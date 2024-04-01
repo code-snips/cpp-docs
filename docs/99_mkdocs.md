@@ -1,6 +1,10 @@
-# More
+# MkDocs
 
-## Welcome to MkDocs
+run with 
+```sh
+. venv\scripts\activate
+mkdocs serve
+```
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -34,7 +38,6 @@ mkdocs serve
 ```
 
 ## prompts
-chatgpt:
 ```
 write a professional tutorial for modern c++ with the following topic: primitive datatypes
 use the .md format to generate mkdocs. wrap codeblocks with *** instead of ``` put the whole response in a single codeblock
