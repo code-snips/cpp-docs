@@ -14,6 +14,8 @@ A collection of code snippets for C++.
  - [C++ Weekly by Jason Turner.](https://www.youtube.com/c/lefticus1/videos)
  - [CopperSpice videos on C++](https://www.youtube.com/playlist?list=PL9GxRn_rQx8Pwe4bMecruWbIEICAsZtgT)
  - []()
+
+ - [Functional Programming]()
  - []()
 
   source

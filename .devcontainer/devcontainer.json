@@ -1,0 +1,15 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/python",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "streetsidesoftware.code-spell-checker",
+            "vuetifyjs.vuetify-vscode",
+            "Vue.volar"
+        ]
+      }
+    },
+    "postCreateCommand": "bash .devcontainer/postCreate.sh",
+    "forwardPorts": [3000]
+  }
