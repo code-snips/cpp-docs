@@ -73,3 +73,16 @@ async function fetchData<T>(url: string): Promise<T> {
 // Usage
 const userPromise: Promise<User> = fetchData<User>('https://api.example.com/users/1');
 ```
+
+## Promise
+
+```ts
+functionA(): Promise<string> {
+   // api call returns Promise<string>
+}
+
+async functionB(): Promise<string> {
+   const value = await this.functionA() // how to unwrap the value inside this  promise
+   return value;
+}
+```
